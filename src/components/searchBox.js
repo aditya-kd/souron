@@ -47,8 +47,10 @@ function SearchBox () {
             </select>
             <input type="text" value={textInput1} onChange={handleTextChange1} />
             </div>
+            <div className='form-row'>
             <input type="text" value={textInput2} onChange={handleTextChange2} />
             <button type="submit">Submit</button>
+            </div>
           </form>
           {submittedData && <p>Submitted Data: {submittedData}</p>}
         </div>
