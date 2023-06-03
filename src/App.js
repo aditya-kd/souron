@@ -1,13 +1,13 @@
 import Header from './components/header.js'
-import DisplayResponse from './components/displayResponse.js'
 import './App.css';
+import SearchBox from './components/searchBox.js';
 
 function App() {
   return (
     <div className="App">
       <Header/>
-      <DisplayResponse/>
-    </div>
+      <SearchBox/>
+      </div>
   );
 }
 
