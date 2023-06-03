@@ -86,4 +86,9 @@
 .form button[type="submit"]:hover {
   background-color: #0056b3;
 }
-
+.header {
+  background-color: #d9d7d7;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  padding: 1rem;
+  color: black;
+}
