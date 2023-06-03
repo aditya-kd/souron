@@ -1,0 +1,13 @@
+{
+    "Output":
+    {
+        "__type": "com.amazon.trmservice#GetTCDAFieldSourceInfoResponse",
+        "builderType": "CUSTOM_BUILDER",
+        "codeLink": "https://code.amazon.com/search?utf8",
+        "fieldSourceInfo": {
+            "queryPath": "",
+            "sourceType": "TD"
+        }
+    },
+    "Version": "1.0"
+}
